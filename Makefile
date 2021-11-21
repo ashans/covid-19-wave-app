@@ -22,4 +22,4 @@ run-wave:
 
 .PHONY: run
 run:
-	./venv/bin/wave run src.app
+	./venv/bin/wave run app
